@@ -5,7 +5,7 @@ Experiment to display polygons on a map.
 ## Run
 
 ```
-npm install
+npm install && bower install
 npm start
 ```
 
